@@ -1,0 +1,10 @@
+map 10 10
+help
+show
+create lake depth 4 at 2 2 size 2
+dump
+show
+create hero Axe at 6 6 with hp 300
+dump
+show
+quit
